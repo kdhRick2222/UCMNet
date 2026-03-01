@@ -42,6 +42,6 @@ for Under-Display Camera Image Restoration
 
 <p align="center">
   <a href="">
-    <img src="image/oveall.pdf" alt="Logo" width="100%">
+    <img src="image/overall.jpg" alt="Logo" width="100%">
   </a>
 </p>
