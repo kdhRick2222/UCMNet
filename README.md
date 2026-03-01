@@ -83,7 +83,7 @@ python testing_n_saving.py
 
 <p align="center">
   <a href="">
-    <img src="image/POLED.png" alt="Logo" width="70%">
+    <img src="image/POLED.png" alt="Logo" width="90%">
   </a>
 </p>
 
@@ -91,7 +91,7 @@ python testing_n_saving.py
 
 <p align="center">
   <a href="">
-    <img src="image/TOLED.png" alt="Logo" width="70%">
+    <img src="image/TOLED.png" alt="Logo" width="90%">
   </a>
 </p>
 
