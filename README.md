@@ -1,7 +1,7 @@
 <table align="center">
 <tr>
 <td valign="middle">
-  <img src="image/ucmnet.png" width="90"/>
+  <img src="image/ucmnet.png" width="50"/>
 </td>
 <td valign="middle" align="left">
 
