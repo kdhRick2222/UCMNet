@@ -49,9 +49,10 @@ for Under-Display Camera Image Restoration
 > We propose a lightweight Uncertainty-aware Context-Memory Network (UCMNet), for UDC image restoration. Unlike previous methods that apply uniform restoration, UCMNet performs <b>uncertainty-aware adaptive processing to restore high-frequency details in regions with varying degradations.</b>
 
 ## Installation
-Our code follows setting of previous works (e.g., BNUDC and FSI) especially for scikit-image==0.19.3.
+Our implementation follows the experimental settings of previous UDC restoration works (e.g., BNUDC and FSI).  
+Please ensure that `scikit-image==0.19.3` is installed.
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
@@ -80,6 +81,22 @@ python testing_n_saving.py
 
 > datasets can be converted by <b>option.py</b>.
 
+<p align="center">
+  <a href="">
+    <img src="image/POLED.png" alt="Logo" width="70%">
+  </a>
+</p>
+
+> Visual comparisons on the POLED dataset.
+
+<p align="center">
+  <a href="">
+    <img src="image/TOLED.png" alt="Logo" width="70%">
+  </a>
+</p>
+
+> Visual comparisons on the TOLED dataset.
+
 ## Training
 ```
 python training_n_recording.py
@@ -97,6 +114,6 @@ python training_n_recording.py
 ```
 
 ## Acknowledgement
-We thank the authors of [BNUDC](https://github.com/JaihyunKoh/BNUDC) and [DARKIR](https://github.com/cidautai/DarkIR) for their excellent work and code, which served as the foundation for this project.
+We gratefully acknowledge the authors of [BNUDC](https://github.com/JaihyunKoh/BNUDC) and [DARKIR](https://github.com/cidautai/DarkIR) for their outstanding work and publicly released code, which laid the foundation for this project. 
 
 
