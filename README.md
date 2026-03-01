@@ -7,7 +7,7 @@
 
 <h1 style="margin: 0;">
 UCMNet: Uncertainty-Aware Context Memory Network <br>
-for Under-Display Camera Image Restoration
+for Under-Display Camera Image Restoration (CVPR 2026)
 </h1>
 
 </span>
@@ -30,8 +30,6 @@ for Under-Display Camera Image Restoration
 <p>
 <sup>*</sup>Co-first author &nbsp;&nbsp; †Co-corresponding author
 </p>
-
-<h3>CVPR 2026</h3>
 
 <h3>
 <a href="#">Paper</a> |
