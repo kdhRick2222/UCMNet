@@ -17,7 +17,7 @@ for Under-Display Camera Image Restoration (CVPR 2026)
   ·
   <a href="https://sites.google.com/view/lliger9/home?authuser=0">Youngmin Kim</a><sup>1,2*</sup>
   ·
-  <a href="https://sites.google.com/view/lliger9/home?authuser=0">Yoon Ju Oh</a><sup>1*</sup>
+  <a href="https://sites.google.com/view/lliger9/home?authuser=0">Yoon Ju Oh</a><sup>1</sup>
   ·
   <a href="https://scholar.google.com/citations?hl=ko&user=8soccsoAAAAJ">Tae Hyun Kim</a><sup>1†</sup>
 </p>
