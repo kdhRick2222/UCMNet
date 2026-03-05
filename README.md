@@ -6,8 +6,8 @@
 <span style="vertical-align: middle; margin-left: 15px; display: inline-block; text-align: left;">
 
 <h1 style="margin: 0;">
-UCMNet: Uncertainty-Aware Context Memory Network <br>
-for Under-Display Camera Image Restoration (CVPR 2026)
+UCMNet: Uncertainty-Aware Context Memory Network for<br>
+Under-Display Camera Image Restoration (CVPR 2026)
 </h1>
 
 </span>
