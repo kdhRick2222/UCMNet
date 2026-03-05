@@ -1,7 +1,7 @@
 <div align="center">
-<span style="vertical-align: middle;">
+<!-- <span style="vertical-align: middle;">
   <img src="image/ucmnet.png" width="80">
-</span>
+</span> -->
 
 <span style="vertical-align: middle; margin-left: 15px; display: inline-block; text-align: left;">
 
