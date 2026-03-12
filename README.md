@@ -5,11 +5,10 @@
 
 <span style="vertical-align: middle; margin-left: 15px; display: inline-block; text-align: left;">
 
-<!-- <h1 style="margin: 0;"> -->
-<span style="font-size:34px; font-weight:600;">
+<h2 style="margin: 0;">
 UCMNet: Uncertainty-Aware Context Memory Network<br>
 for Under-Display Camera Image Restoration (CVPR'26)
-</h1>
+</h2>
 
 </span>
 
@@ -30,7 +29,7 @@ for Under-Display Camera Image Restoration (CVPR'26)
 
 <p>
 <!-- <sup>*</sup>Co-first author &nbsp;&nbsp; †Co-corresponding author -->
-<sup>*</sup> †Co-corresponding author
+<sup>†</sup> Co-corresponding author
 </p>
 
 <h3>
