@@ -6,7 +6,7 @@
 <span style="vertical-align: middle; margin-left: 15px; display: inline-block; text-align: left;">
 
 <!-- <h1 style="margin: 0;"> -->
-<h1 style="margin: 0; font-size: 28px;">
+<h1 style="margin:0; font-size:34px; font-weight:600;">
 UCMNet: Uncertainty-Aware Context Memory Network<br>
 for Under-Display Camera Image Restoration (CVPR'26)
 </h1>
