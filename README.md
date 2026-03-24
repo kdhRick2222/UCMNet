@@ -107,7 +107,7 @@ python training_n_recording.py
 ```
 @inproceedings{kim2025UCMNet,
   title={UCMNet: Uncertainty-Aware Context Memory Network for Under-Display Camera Image Restoration},
-  author={Daehyun Kim, Youngmin Kim, Yoon Ju Oh, Tae Hyun Kim},
+  author={Kim, Daehyun and Kim, Youngmin and Oh, Yoon Ju and Kim, Tae Hyun},
   booktitle={Computer Vision and Pattern Recognition (CVPR)},
   year={2026}
 }
