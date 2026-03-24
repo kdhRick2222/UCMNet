@@ -34,7 +34,7 @@ for Under-Display Camera Image Restoration (CVPR'26)
 
 <h3>
 <a href="#">Paper</a> |
-<a href="https://github.com/kdhRick2222/UCMNet/">Project Page</a>
+<a href="https://kdhrick2222.github.io/projects/UCMNet/">Project Page</a>
 </h3>
 
 
