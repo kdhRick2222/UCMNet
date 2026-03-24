@@ -15,7 +15,7 @@ for Under-Display Camera Image Restoration (CVPR'26)
 <p>
   <a href="https://kdhrick2222.github.io/">Daehyun Kim</a><sup>1</sup>
   ·
-  <a href="https://sites.google.com/view/lliger9/home?authuser=0">Youngmin Kim</a><sup>1,2</sup>
+  <a href="https://github.com/000miiin">Youngmin Kim</a><sup>1,2</sup>
   ·
   <a href="https://sites.google.com/view/lliger9/home?authuser=0">Yoon Ju Oh</a><sup>1</sup>
   ·
