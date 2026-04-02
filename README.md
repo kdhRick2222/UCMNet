@@ -37,8 +37,10 @@ for Under-Display Camera Image Restoration (CVPR'26)
 <a href="https://kdhrick2222.github.io/projects/UCMNet/">Project Page</a>
 </h3> -->
 <h3 align="center">
+    <!-- GitHub Code -->
+    <a href="https://github.com/kdhRick2222/UCMNet/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
     <!-- GitHub Project -->
-    <a href="https://kdhrick2222.github.io/projects/UCMNet/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+    <a href="https://kdhrick2222.github.io/projects/UCMNet/" target="_blank"><img src="https://img.shields.io/badge/Project%20Page-Website-blue?logo=google-chrome&logoColor=white"></a>
     <!-- CVPR Paper -->
     <a href="https://arxiv.org/abs/2604.00381" target="_blank"><img src="https://img.shields.io/badge/CVPR%20Paper-003B6F?logo=readthedocs&logoColor=white"></a>
     <!-- arxiv Paper -->
