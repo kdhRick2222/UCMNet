@@ -29,7 +29,7 @@ for Under-Display Camera Image Restoration (CVPR'26)
 
 <p>
 <!-- <sup>*</sup>Co-first author &nbsp;&nbsp; †Co-corresponding author -->
-<sup>†</sup> Co-corresponding author
+<sup>†</sup> Corresponding author
 </p>
 
 <!-- <h3>
